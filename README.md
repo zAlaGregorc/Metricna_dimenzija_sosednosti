@@ -1,4 +1,4 @@
-# Matricna_dimenzija_sosednosti
+# Metricna_dimenzija_sosednosti
 
 AVTORJA: Alja Dostal in Zala Gregorc
 
